@@ -125,7 +125,7 @@
     "mocha": "^10.5.1",
     "vscode-debugadapter-testsupport": "^1.33.0",
     "@types/node": "10.1.4",
-    "@types/mocha": "^5.2.6"
+    "@types/mocha": "^10.0.7"
   },
   "keywords": [
     "PHP",
