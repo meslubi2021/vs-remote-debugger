@@ -121,11 +121,11 @@
   },
   "devDependencies": {
     "typescript": "^3.3.3333",
-    "vscode": "^1.1.30",
-    "mocha": "^6.2.3",
+    "vscode": "^1.1.37",
+    "mocha": "^10.5.1",
     "vscode-debugadapter-testsupport": "^1.33.0",
     "@types/node": "10.1.4",
-    "@types/mocha": "^5.2.6"
+    "@types/mocha": "^10.0.7"
   },
   "keywords": [
     "PHP",
